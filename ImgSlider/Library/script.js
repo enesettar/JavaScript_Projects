@@ -1,0 +1,9 @@
+$(document).ready(function(){
+  $(".owl-carousel").owlCarousel({
+      dots:true,
+      nav:true,
+      arrows:true,
+      items:1,
+      loop:true
+  });
+});
